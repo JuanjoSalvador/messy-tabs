@@ -1,0 +1,6 @@
+{
+  "manifest_version": 2,
+  "name": "Messy Tabs",
+  "version": "1.0",
+  "description": "Search throught your Chrome opened tabs."
+}
